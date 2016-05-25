@@ -39,8 +39,8 @@
       "type": "build"
     },
     "NetCoreMVC.Service": "1.0.0-*",
-    "NetCoreMVC.Model": "1.0.0-*"
-  },
+    "NetCoreMVC.Model": "1.0.0-*",
+    "NetCoreMVC.Data": "1.0.0-*"  },
 
   "tools": {
     "Microsoft.AspNetCore.Razor.Tools": {

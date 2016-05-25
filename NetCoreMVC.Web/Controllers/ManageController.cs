@@ -9,6 +9,7 @@ using Microsoft.Extensions.Logging;
 using NetCoreMVC.Web.Models;
 using NetCoreMVC.Web.Models.ManageViewModels;
 using NetCoreMVC.Web.Services;
+using NetCoreMVC.Model;
 
 namespace NetCoreMVC.Web.Controllers
 {
